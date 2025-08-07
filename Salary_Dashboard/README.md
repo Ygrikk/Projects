@@ -54,22 +54,29 @@ IF(
 </pre>
 
 - 🔍 **Multi-Criteria Filtering:** Checks job title, country, schedule type, and excludes blank salaries.
-- 📊 **Array Formula:** Utilizes MEDIAN() function with nested IF() statement to analyze an array.
+- 📊 **Array Formula:** Utilizes **MEDIAN()** function with nested **IF()** statement to analyze an array.
 - 🎯 **Tailored Insights:** Provides specific salary information for job titles, regions, and schedule types.
 - 🔢 **Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
 🍽️ Background Table
+
 ![Background_Table](./Images/EXCEL_2UO1N5Zzb4.png)
+
 📉 Dashboard Implementation
+
 ![Implementation](./Images/EXCEL_HvZOaos8NT.png)
+
 #### ⏰ Count of Job Schedule Type
 <pre lang="markdown">=FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))</pre>
 
 - 🔍 **Unique List Generation:** This Excel formula below employs the FILTER() function to exclude entries containing "and" or commas, and omit zero values.
 - 🔢 **Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
 🍽️ Background Table
+
 ![Schedule_Type](./Images/EXCEL_OJd0B9TcOP.png)
+
 📉 Dashboard Implementation:
+
 ![Schedule_Type](./Images/EXCEL_lBbjp0CwmM.png)
 
 ## ❎ Data Validation
