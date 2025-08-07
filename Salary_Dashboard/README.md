@@ -6,3 +6,9 @@ This salary dashboard was created as part of my learning journey through [Luke B
 
 ### Dashboard File
 My final dashboard is in [Data_Science_Salary_Dashboard.xlsx](./Data_Science_Salary_Dashboard.xlsx)
+
+### Excel Skills Used
+The following Excel skills were utilized for analysis:
+- 📉 Charts
+- 🧮 Formulas and Functions
+- ❎ Data Validation
