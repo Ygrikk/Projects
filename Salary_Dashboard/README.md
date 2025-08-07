@@ -9,16 +9,16 @@ My final dashboard is in [Data_Science_Salary_Dashboard.xlsx](./Data_Science_Sal
 
 ### Excel Skills Used
 The following Excel skills were utilized for analysis:
-- 📉 Charts
-- 🧮 Formulas and Functions
-- ❎ Data Validation
+- 📉 **Charts**
+- 🧮 **Formulas and Functions**
+- ❎ **Data Validation**
 
 ### Data Jobs Dataset
 The dataset used for this project contains real-world data science job information from 2023. The dataset is available via [Luke's course on YouTube](https://www.youtube.com/watch?v=pCJ15nGFgVg&t), which provides a foundation for analyzing data using Excel. It includes detailed information on:
-- 👨‍💼 Job titles
-- 💰 Salaries
-- 📍 Locations
-- 🛠️ Skills
+- 👨‍💼 **Job titles**
+- 💰 **Salaries**
+- 📍 **Locations**
+- 🛠️ **Skills**
 
 ## Dashboard Build
 ### 📉 Charts
