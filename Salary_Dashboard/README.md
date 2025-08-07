@@ -42,7 +42,7 @@ The dataset used for this project contains real-world data science job informati
 ### 🧮 Formulas and Functions
 #### 💰 Median Salary by Job Titles
 
-<pre lang="markdown"> =MEDIAN(
+<pre lang="markdown">=MEDIAN(
 IF(
     (jobs[job_title_short]=A2)*
     (jobs[job_country]=country)*
