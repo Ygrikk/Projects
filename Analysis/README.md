@@ -71,7 +71,7 @@ Finally, I loaded both transformed queries into the workbook, setting the founda
 ### 🧮 Skills: PivotTables & DAX
 #### 📈Pivot Table
 - 🔢 I created a PivotTable using the Data Model I created with Power Pivot.
-- 📊 I moved the job_title_short to the rows area and salary_year_avg into the values area.
+- 📊 I moved the job_title_short to the rows area and **salary_year_avg** into the values area.
 - 🧮 Then I added new measure to calculate the median salary for United States jobs.
 <pre lang="markdown"> =CALCULATE(
     MEDIAN(data_jobs_all[salary_year_avg]),
