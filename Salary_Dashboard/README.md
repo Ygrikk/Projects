@@ -90,5 +90,5 @@ IF(
 ![Job_Title](./Images/EXCEL_Y049Har3XZ.gif)
 
 ## Conclusion
-I built this dashboard to apply the skills I gained in Luke’s Excel course and to better understand salary trends in the data job market from 2023. It helps reveal how factors like job title and location impact compensation. This project not only sharpened my data analysis abilities but also offered valuable insights for anyone navigating a career in data.
+I built this dashboard to apply the skills I gained in [Luke’s Excel course](https://www.youtube.com/watch?v=pCJ15nGFgVg&t) and to better understand salary trends in the data job market from 2023. It helps reveal how factors like job title and location impact compensation. This project not only sharpened my data analysis abilities but also offered valuable insights for anyone navigating a career in data.
 
