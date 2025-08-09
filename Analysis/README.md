@@ -1,7 +1,7 @@
 # Project 2 Analysis
 
 ## Introduction
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+This analysis was created as part of [Luke’s Excel course](https://www.youtube.com/watch?v=pCJ15nGFgVg&t) to explore the skills most in demand for data analysts and how these skills impact salaries. Using 2023 job market data, it provides insights into which abilities can boost earning potential and help guide professional development.
 
 ### Questions to Analyze
 To understand the data science job market, I asked the following:
