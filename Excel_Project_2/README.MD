@@ -4,7 +4,7 @@
 This analysis was created as part of [Luke’s Excel course](https://www.youtube.com/watch?v=pCJ15nGFgVg&t) to explore the skills most in demand for data analysts and how these skills impact salaries. Using 2023 job market data, it provides insights into which abilities can boost earning potential and help guide professional development.
 
 ## Dataset 
-Here is my dataset [Data_Science_Skill_Analysis.xlsx](./Data_Science_Skill_Analysis.xlsx)
+Here is the dataset [Data_Science_Skill_Analysis.xlsx](./Data_Science_Skill_Analysis.xlsx)
 
 ### Questions to Analyze
 To understand the data science job market, I asked the following:
